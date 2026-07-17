@@ -2,6 +2,9 @@
 # Add a fly here and it appears in the table automatically. Optional `page:`
 # links a row to a full prose write-up (e.g. flies/woolly-bugger.md).
 # `waters` ties a pattern to where it earns its keep.
+# `video` deep-links to the moment the pattern is shown in a source video
+# (timestamps from the time-coded transcript; approximate to ~15s). Source
+# credited per README; links point to the original — nothing is rehosted.
 
 - name: Zebra Midge (brown/copper)
   type: midge
@@ -10,6 +13,7 @@
   bead: copper
   season: all
   waters: [South Holston]
+  video: "https://youtu.be/z3ZacYADy7g?t=2803"
   notes: 'Locals call it a "sweet thing." Fish love zebras — the bread-and-butter SoHo midge.'
 
 - name: Purple Zebra Midge
@@ -19,6 +23,7 @@
   bead: silver
   season: all
   waters: [South Holston]
+  video: "https://youtu.be/z3ZacYADy7g?t=2828"
   notes: Sleeper pattern — out-fishes standard midges when others struggle.
 
 - name: White / Miracle Midge
@@ -28,6 +33,7 @@
   bead: clear
   season: all
   waters: [South Holston]
+  video: "https://youtu.be/z3ZacYADy7g?t=2871"
   notes: White thread body; clear bead rides it in the film. Turn a rock, you'll see white midges.
 
 - name: Matt's Midge
@@ -37,6 +43,7 @@
   bead: none
   season: all
   waters: [South Holston]
+  video: "https://youtu.be/z3ZacYADy7g?t=2954"
   notes: Black or red thread, trailing shuck with a single strand of crystal flash.
 
 - name: BWO Jig Nymph
@@ -46,6 +53,7 @@
   bead: gold when stained
   season: spring, fall
   waters: [South Holston, Watauga]
+  video: "https://youtu.be/z3ZacYADy7g?t=3392"
   notes: Dominating bug. Near-necessity here. Bead color by water clarity.
 
 - name: Split Case (BWO/Sulfur)
@@ -55,6 +63,7 @@
   bead: varies
   season: spring, summer
   waters: [South Holston]
+  video: "https://youtu.be/z3ZacYADy7g?t=3229"
   notes: A favorite — ties in 2–3 min. Fish it anytime sulfurs are around.
 
 - name: Sulfur Dry (Adams Sulfur)
@@ -64,6 +73,7 @@
   bead: none
   season: summer
   waters: [South Holston]
+  video: "https://youtu.be/z3ZacYADy7g?t=3435"
   notes: Big sulfur hatches, especially lower river; some seasons the bugs run large (12–14).
 
 - name: Frenchie
@@ -73,6 +83,7 @@
   bead: silver/gold
   season: all
   waters: [South Holston]
+  video: "https://youtu.be/z3ZacYADy7g?t=3346"
   notes: Jig hook, hot spot on tail and collar. Silver/purple version fishes well in winter.
 
 - name: Mack Daddy
@@ -82,6 +93,7 @@
   bead: none
   season: summer
   waters: [South Holston]
+  video: "https://youtu.be/z3ZacYADy7g?t=3295"
   notes: About the only caddis fished here. Floats huge (treat w/ Lochsa/Frog's Fanny) and holds a heavy dropper without sinking.
 
 - name: Puff Daddy
@@ -91,6 +103,7 @@
   bead: none
   season: summer
   waters: [South Holston]
+  video: "https://youtu.be/z3ZacYADy7g?t=4423"
   notes: Similar to the Mack Daddy; popular locally.
 
 - name: Stinger Soft Hackle
@@ -100,6 +113,7 @@
   bead: none (lead under dubbing)
   season: all
   waters: [South Holston]
+  video: "https://youtu.be/z3ZacYADy7g?t=3104"
   notes: Own pattern — lead under the dubbing gets it down fast as a point fly. Orange/lime-green combo fishes "like crazy."
 
 - name: CDC / Pheasant-Tail Soft Hackle
@@ -109,6 +123,7 @@
   bead: gold if mucky
   season: spring, summer
   waters: [South Holston]
+  video: "https://youtu.be/z3ZacYADy7g?t=3148"
   notes: Saman camo thread body; olive/red/copper.
 
 - name: Soft-Hackle Emerger
@@ -118,6 +133,7 @@
   bead: none
   season: all
   waters: [South Holston]
+  video: "https://youtu.be/z3ZacYADy7g?t=3194"
   notes: Weir-dam area. Tied on a dry hook (wider gap), unweighted.
 
 - name: Poly-Wing Midge / F-Fly
@@ -127,6 +143,7 @@
   bead: none
   season: all
   waters: [South Holston, Davidson]
+  video: "https://youtu.be/z3ZacYADy7g?t=3451"
   notes: Old pattern (50–60 yrs). Excellent brown-trout bug at dusk; not a rainbow magnet.
 
 - name: Elk Hair Caddis
@@ -136,6 +153,7 @@
   bead: none
   season: summer
   waters: [South Holston, general]
+  video: "https://youtu.be/z3ZacYADy7g?t=3488"
   notes: Sam's confidence dry.
 
 - name: Scud (green + tan)
@@ -145,6 +163,7 @@
   bead: none
   season: all
   waters: [South Holston]
+  video: "https://youtu.be/z3ZacYADy7g?t=4420"
   notes: Lots of grass = lots of scuds. Green vs. tan matters more than you'd think — carry both shades and switch.
 
 - name: Egg Pattern
@@ -154,6 +173,7 @@
   bead: none
   season: fall, winter
   waters: [South Holston]
+  video: "https://youtu.be/z3ZacYADy7g?t=4555"
   notes: During the brown spawn, rainbows key on eggs. Carry them.
 
 - name: Woolly Bugger

@@ -8,6 +8,8 @@ nav_order: 1
 
 Every pattern in one place — type it or filter it. Driven by [`_data/flies.yml`](https://github.com/jdlongmire/fly-fishing/blob/main/_data/flies.yml); add a fly there and it shows up here. Click a column header to sort; some rows link to a full write-up.
 
+The **▶ clip** links jump to the moment each pattern is shown in the [Wild Bearings South Holston webcast](https://youtu.be/z3ZacYADy7g) (timestamps are approximate). The video is theirs — these are deep-links to the original, nothing is rehosted.
+
 <input type="text" id="fly-search" placeholder="Search flies (name, imitates, notes)…" aria-label="Search flies" style="width:100%;max-width:32rem;padding:.5rem .7rem;margin:.5rem 0 1rem;border:1px solid #ccc;border-radius:.4rem;font-size:1rem;">
 
 <div id="fly-facets" style="margin-bottom:1rem;display:flex;flex-wrap:wrap;gap:.4rem;"></div>
@@ -22,6 +24,7 @@ Every pattern in one place — type it or filter it. Driven by [`_data/flies.yml
       <th data-key="season">Season</th>
       <th data-key="bead">Bead</th>
       <th data-key="notes">Notes</th>
+      <th>Watch</th>
     </tr>
   </thead>
   <tbody>
@@ -35,6 +38,7 @@ Every pattern in one place — type it or filter it. Driven by [`_data/flies.yml
       <td>{{ f.season }}</td>
       <td>{{ f.bead }}</td>
       <td>{{ f.notes }}</td>
+      <td>{% if f.video %}<a href="{{ f.video }}" target="_blank" rel="noopener" title="Jump to this pattern in the source video">▶ clip</a>{% endif %}</td>
     </tr>
   {% endfor %}
   </tbody>
