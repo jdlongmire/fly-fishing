@@ -13,6 +13,8 @@ A TVA tailwater below South Holston Dam, widely rated one of the best trout fish
 **Region:** East Tennessee — Bluff City up to South Holston Dam; nickname "SoHo"
 **Local nickname for the fishing:** "assisted living" — flat, wadeable, and stacked with fish
 
+{% include release-panel.html %}
+
 ## Why it fishes the way it does
 
 - **~14.6 miles** of river from the dam down to Island Park at Bluff City (where it enters Boone Lake).
@@ -31,6 +33,10 @@ A TVA tailwater below South Holston Dam, widely rated one of the best trout fish
 | Wading | Easy; ankle-to-knee riffles between shoals, ~4 ft max in most runs |
 | The catch | **Bottom-release fishery — know the TVA schedule or you get hurt.** See [release-schedule.md](release-schedule.md) |
 | Wildlife | Bald eagles (will steal your trout), deer |
+
+## Map
+
+{% include soho-map.html %}
 
 ## The three sections (local terminology)
 

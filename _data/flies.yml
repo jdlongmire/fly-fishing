@@ -1,0 +1,167 @@
+# Master fly dataset — drives the filterable table at /flies/reference/.
+# Add a fly here and it appears in the table automatically. Optional `page:`
+# links a row to a full prose write-up (e.g. flies/woolly-bugger.md).
+# `waters` ties a pattern to where it earns its keep.
+
+- name: Zebra Midge (brown/copper)
+  type: midge
+  imitates: midge larva/pupa
+  sizes: "20–22"
+  bead: copper
+  season: all
+  waters: [South Holston]
+  notes: 'Locals call it a "sweet thing." Fish love zebras — the bread-and-butter SoHo midge.'
+
+- name: Purple Zebra Midge
+  type: midge
+  imitates: midge pupa
+  sizes: "20"
+  bead: silver
+  season: all
+  waters: [South Holston]
+  notes: Sleeper pattern — out-fishes standard midges when others struggle.
+
+- name: White / Miracle Midge
+  type: midge
+  imitates: white midge larva
+  sizes: "20"
+  bead: clear
+  season: all
+  waters: [South Holston]
+  notes: White thread body; clear bead rides it in the film. Turn a rock, you'll see white midges.
+
+- name: Matt's Midge
+  type: midge
+  imitates: midge adult/emerger
+  sizes: "20"
+  bead: none
+  season: all
+  waters: [South Holston]
+  notes: Black or red thread, trailing shuck with a single strand of crystal flash.
+
+- name: BWO Jig Nymph
+  type: nymph
+  imitates: Baetis (blue-winged olive) nymph
+  sizes: "20"
+  bead: gold when stained
+  season: spring, fall
+  waters: [South Holston, Watauga]
+  notes: Dominating bug. Near-necessity here. Bead color by water clarity.
+
+- name: Split Case (BWO/Sulfur)
+  type: nymph
+  imitates: emerging mayfly (split wingcase)
+  sizes: "18–20"
+  bead: varies
+  season: spring, summer
+  waters: [South Holston]
+  notes: A favorite — ties in 2–3 min. Fish it anytime sulfurs are around.
+
+- name: Sulfur Dry (Adams Sulfur)
+  type: dry
+  imitates: sulfur mayfly dun
+  sizes: "12–20"
+  bead: none
+  season: summer
+  waters: [South Holston]
+  notes: Big sulfur hatches, especially lower river; some seasons the bugs run large (12–14).
+
+- name: Frenchie
+  type: nymph
+  imitates: generic mayfly nymph (hot spot)
+  sizes: "16"
+  bead: silver/gold
+  season: all
+  waters: [South Holston]
+  notes: Jig hook, hot spot on tail and collar. Silver/purple version fishes well in winter.
+
+- name: Mack Daddy
+  type: dry
+  imitates: caddis (high-floating)
+  sizes: "10–14"
+  bead: none
+  season: summer
+  waters: [South Holston]
+  notes: About the only caddis fished here. Floats huge (treat w/ Lochsa/Frog's Fanny) and holds a heavy dropper without sinking.
+
+- name: Puff Daddy
+  type: dry
+  imitates: caddis
+  sizes: "10–14"
+  bead: none
+  season: summer
+  waters: [South Holston]
+  notes: Similar to the Mack Daddy; popular locally.
+
+- name: Stinger Soft Hackle
+  type: soft-hackle
+  imitates: emerging caddis/attractor
+  sizes: "10–12"
+  bead: none (lead under dubbing)
+  season: all
+  waters: [South Holston]
+  notes: Own pattern — lead under the dubbing gets it down fast as a point fly. Orange/lime-green combo fishes "like crazy."
+
+- name: CDC / Pheasant-Tail Soft Hackle
+  type: soft-hackle
+  imitates: emerging mayfly
+  sizes: "16–18"
+  bead: gold if mucky
+  season: spring, summer
+  waters: [South Holston]
+  notes: Saman camo thread body; olive/red/copper.
+
+- name: Soft-Hackle Emerger
+  type: emerger
+  imitates: midge/mayfly emerger
+  sizes: "20"
+  bead: none
+  season: all
+  waters: [South Holston]
+  notes: Weir-dam area. Tied on a dry hook (wider gap), unweighted.
+
+- name: Poly-Wing Midge / F-Fly
+  type: dry
+  imitates: adult midge
+  sizes: "20"
+  bead: none
+  season: all
+  waters: [South Holston, Davidson]
+  notes: Old pattern (50–60 yrs). Excellent brown-trout bug at dusk; not a rainbow magnet.
+
+- name: Elk Hair Caddis
+  type: dry
+  imitates: adult caddis
+  sizes: "14–18"
+  bead: none
+  season: summer
+  waters: [South Holston, general]
+  notes: Sam's confidence dry.
+
+- name: Scud (green + tan)
+  type: nymph
+  imitates: scud (freshwater shrimp)
+  sizes: "14–18"
+  bead: none
+  season: all
+  waters: [South Holston]
+  notes: Lots of grass = lots of scuds. Green vs. tan matters more than you'd think — carry both shades and switch.
+
+- name: Egg Pattern
+  type: egg
+  imitates: trout egg
+  sizes: "14–16"
+  bead: none
+  season: fall, winter
+  waters: [South Holston]
+  notes: During the brown spawn, rainbows key on eggs. Carry them.
+
+- name: Woolly Bugger
+  type: streamer
+  imitates: leech / baitfish / crayfish
+  sizes: "6–12"
+  bead: optional
+  season: all
+  waters: [general]
+  page: /flies/woolly-bugger/
+  notes: Year-round confidence searching pattern. Strip, swing, or dead-drift.

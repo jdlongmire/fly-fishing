@@ -6,7 +6,9 @@ has_children: true
 
 # Flies
 
-Individual pattern notes. Copy [`_template.md`](_template.md) to start a new one.
+**→ [Fly Reference](reference.md)** — the searchable, filterable master table of every pattern (start here for a quick lookup).
+
+Individual pattern notes below. Copy [`_template.md`](_template.md) to start a new one.
 
 ## Index
 

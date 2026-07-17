@@ -9,6 +9,8 @@ nav_order: 1
 
 **Read this before you wade.** SoHo is a TVA bottom-release tailwater. When they generate, the water comes up fast and hard — from wadeable riffles to dangerous current in minutes. People get hurt underestimating it.
 
+{% include release-panel.html %}
+
 ## How to check the schedule
 
 - Google **"TVA South Holston River release schedule"** → the TVA site → pick South Holston / Holston River.

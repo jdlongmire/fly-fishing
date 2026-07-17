@@ -1,0 +1,36 @@
+{
+  "type": "FeatureCollection",
+  "note": "Public reference points. Coordinates verified via USGS (nwis) and OpenStreetMap Nominatim, not estimated. Add access points/ramps here as coordinates are confirmed; GeoJSON uses [lon, lat].",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South Holston Dam",
+        "section": "Upper",
+        "url": "/locations/south-holston/access-and-sections/#upper-section-5-mi",
+        "note": "Top of the river. Overflow spillway + generation tubes; drive across the top. Source: OpenStreetMap."
+      },
+      "geometry": { "type": "Point", "coordinates": [-82.0890563, 36.5233418] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Weir dams / Osceola Island (below dam)",
+        "section": "Upper",
+        "url": "/locations/south-holston/access-and-sections/#upper-section-5-mi",
+        "note": "Tailwater start below the dam — weir dams, aeration grids, footbridge, most-crowded reach. Source: USGS gauge 03476500 (below SH Dam)."
+      },
+      "geometry": { "type": "Point", "coordinates": [-82.0972640, 36.5235597] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Island Park, Bluff City",
+        "section": "Lower",
+        "url": "/locations/south-holston/access-and-sections/#lower-section-425-mi",
+        "note": "Bottom of the ~14.6 mi run, where the river enters Boone Lake. Deeper here — often floated. Source: OpenStreetMap."
+      },
+      "geometry": { "type": "Point", "coordinates": [-82.2584499, 36.4770795] }
+    }
+  ]
+}
