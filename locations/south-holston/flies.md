@@ -1,3 +1,10 @@
+---
+title: Flies & Rigging
+parent: South Holston
+grandparent: Locations
+nav_order: 3
+---
+
 # South Holston — Flies & Rigging
 
 The through-line: **fish small.** Over half a SoHo trout's diet is midges, and size 20–22 is the norm, sometimes smaller. Flies are a confidence game — fish what you trust — but on this technical, clear, hard-pressured water, small + light tippet is what earns eats.
@@ -54,4 +61,4 @@ During the brown spawn, rainbows key on eggs — **carry egg patterns.**
 - **Tippet:** the SoHo Fly Shop pushes **7X** (very technical water). A practical middle ground is 6.5X (e.g. Trout Hunter) for a little insurance on a good fish; 6X still catches plenty if you fish your drag right. **Bamboo** buys a bit of extra tippet protection via its softer flex.
 - **Watch the birds:** small finch-like birds swarming and hitting the surface = a hatch is on. Switch to midges fast — the window turns on and off quickly.
 
-_Source: Wild Bearings webcast — see [README.md](README.md#sources). As other sources are added, note divergent pattern/size advice inline rather than overwriting._
+_Source: Wild Bearings webcast — see [README.md](index.md#sources). As other sources are added, note divergent pattern/size advice inline rather than overwriting._

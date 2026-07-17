@@ -1,3 +1,10 @@
+---
+title: Logistics
+parent: South Holston
+grandparent: Locations
+nav_order: 5
+---
+
 # South Holston — Logistics
 
 Lodging, food, outfitters, and getting there. Verify hours/availability — these change.
@@ -34,4 +41,4 @@ Lodging, food, outfitters, and getting there. Verify hours/availability — thes
 
 If you fly in yourself, respect **Holston Mountain** (~4,200 ft) — the local weather patterns pile up fog and IFR conditions against it. (Source anglers cite a 1976 fatal F-4 crash into the mountain as the cautionary tale.) Set your barometer, fly the plan.
 
-_Source: Wild Bearings webcast — see [README.md](README.md#sources)._
+_Source: Wild Bearings webcast — see [README.md](index.md#sources)._

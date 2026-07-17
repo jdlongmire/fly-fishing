@@ -1,3 +1,9 @@
+---
+title: Location template
+parent: Locations
+nav_exclude: true
+---
+
 # {Water Name}
 
 **Type:** {freestone / tailwater / spring creek / stillwater / small stream / saltwater flat}

@@ -1,3 +1,8 @@
+---
+title: Catch Log
+nav_order: 7
+---
+
 # Catch Log
 
 Dated trip entries. Copy [`_template.md`](_template.md) to a file named `YYYY-MM-DD-water.md` (e.g. `2026-04-12-south-holston.md`).

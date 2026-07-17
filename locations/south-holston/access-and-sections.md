@@ -1,3 +1,10 @@
+---
+title: Access & Sections
+parent: South Holston
+grandparent: Locations
+nav_order: 2
+---
+
 # South Holston — Access & Sections
 
 Roads parallel nearly the entire river, so access is rarely the problem. The river divides into three sections bottom-to-top. Mileages are approximate and follow the source anglers' terminology.
@@ -41,4 +48,4 @@ From the Hwy 44 bridge up to the **dam**. The most scenic and least-pressured wa
 
 Bottom is rocky with grass beds; felt usually suffices here (see [logistics.md](logistics.md) / gear). The real hazard isn't the rock — it's the **release**. See [release-schedule.md](release-schedule.md).
 
-_Source: Wild Bearings webcast — see [README.md](README.md#sources)._
+_Source: Wild Bearings webcast — see [README.md](index.md#sources)._

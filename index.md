@@ -1,3 +1,8 @@
+---
+title: Home
+nav_order: 1
+---
+
 # Fly Fishing Field Notes
 
 A personal, growing field journal for fly fishing — the flies that work, the water worth returning to, hard-won tips, gear notes, and seasonal timing. Built to be searched, added to over years, and shared.

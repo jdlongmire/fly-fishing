@@ -1,3 +1,9 @@
+---
+title: Locations
+nav_order: 2
+has_children: true
+---
+
 # Locations
 
 Waters I fish. Copy [`_template.md`](_template.md) to add one.

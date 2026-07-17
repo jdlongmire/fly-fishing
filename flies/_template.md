@@ -1,3 +1,9 @@
+---
+title: Fly template
+parent: Flies
+nav_exclude: true
+---
+
 # {Fly Name}
 
 **Type:** {dry / nymph / emerger / streamer / wet / terrestrial}

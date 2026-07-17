@@ -1,0 +1,37 @@
+title: Fly Fishing Field Notes
+description: A personal field journal — flies, tips, locations, gear, and seasonal notes for the waters I fish.
+
+# Served as a GitHub Pages project site
+url: https://jdlongmire.github.io
+baseurl: /fly-fishing
+
+# Native GitHub Pages build (no CI) — remote theme + default Pages plugins
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+  - jekyll-relative-links
+  - jekyll-seo-tag
+
+# Just the Docs
+search_enabled: true
+search:
+  heading_level: 3
+  previews: 3
+  preview_words_before: 3
+  preview_words_after: 3
+heading_anchors: true
+back_to_top: true
+back_to_top_text: "Back to top"
+aux_links:
+  "GitHub repo":
+    - "https://github.com/jdlongmire/fly-fishing"
+aux_links_new_tab: true
+footer_content: "Personal field notes · CC BY 4.0 · tight lines"
+color_scheme: light
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - LICENSE
+  - README-dev.md

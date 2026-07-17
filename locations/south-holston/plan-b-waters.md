@@ -1,3 +1,10 @@
+---
+title: Plan B Waters
+parent: South Holston
+grandparent: Locations
+nav_order: 4
+---
+
 # South Holston — Plan B Waters
 
 When TVA is releasing and the SoHo below the dam is too high/dangerous to wade (and you don't want to float), there are strong nearby options. All within a short drive.
@@ -31,4 +38,4 @@ When TVA is releasing and the SoHo below the dam is too high/dangerous to wade (
 
 Catching fish on the SoHo is so reliable that a few days of it can get monotonous — the plan-B wild streams are where you go to actually hunt: sneak up on a six-inch brookie that's never seen a human and trick it. Different, harder, satisfying.
 
-_Source: Wild Bearings webcast — see [README.md](README.md#sources)._
+_Source: Wild Bearings webcast — see [README.md](index.md#sources)._

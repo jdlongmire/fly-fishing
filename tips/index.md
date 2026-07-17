@@ -1,3 +1,8 @@
+---
+title: Tips & Technique
+nav_order: 4
+---
+
 # Tips & Technique
 
 Tactics, presentation, casting, knots — the how-to that isn't tied to one fly or one water. Add a file per topic (e.g. `mending.md`, `reading-riffles.md`, `knots.md`) and index it here.

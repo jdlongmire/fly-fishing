@@ -9,3 +9,8 @@ Thumbs.db
 # Private notes not meant for a public repo (keep sensitive spot details out)
 private/
 *.private.md
+
+# Jekyll build artifacts (GitHub Pages builds server-side)
+_site/
+.jekyll-cache/
+.jekyll-metadata

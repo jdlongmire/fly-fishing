@@ -1,3 +1,9 @@
+---
+title: Trip template
+parent: Catch Log
+nav_exclude: true
+---
+
 # {YYYY-MM-DD} — {Water}
 
 **Water:** {name / section}

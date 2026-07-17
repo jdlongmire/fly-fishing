@@ -1,3 +1,8 @@
+---
+title: Seasons & Hatches
+nav_order: 6
+---
+
 # Seasons & Hatches
 
 Seasonal timing and hatch notes — what's emerging when, and what to tie on. Build a chart per water (or a general one) over time; the pattern that matters is *local* timing, which only your own observations will nail.

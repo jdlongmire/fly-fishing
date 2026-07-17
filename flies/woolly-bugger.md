@@ -1,3 +1,8 @@
+---
+title: Woolly Bugger
+parent: Flies
+---
+
 # Woolly Bugger
 
 **Type:** Streamer (fishes as leech / baitfish / large nymph)

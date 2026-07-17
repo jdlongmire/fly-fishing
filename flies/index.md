@@ -1,3 +1,9 @@
+---
+title: Flies
+nav_order: 3
+has_children: true
+---
+
 # Flies
 
 Individual pattern notes. Copy [`_template.md`](_template.md) to start a new one.

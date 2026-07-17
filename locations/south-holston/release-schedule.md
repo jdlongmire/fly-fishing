@@ -1,3 +1,10 @@
+---
+title: Releases & Safety
+parent: South Holston
+grandparent: Locations
+nav_order: 1
+---
+
 # South Holston — Releases & Safety
 
 **Read this before you wade.** SoHo is a TVA bottom-release tailwater. When they generate, the water comes up fast and hard — from wadeable riffles to dangerous current in minutes. People get hurt underestimating it.
@@ -31,4 +38,4 @@
 - **Brown trout spawn closures:** a couple of sections close during the spawn. Regardless of closures, leave spawning browns alone anywhere you find them — let them reproduce. Fish **egg patterns** for the rainbows keying on the eggs (see [flies.md](flies.md)).
 - **Felt ban:** reportedly may be banned in TN/VA/WV at some point — verify current regs; rubber soles (e.g. Korkers Aluma-Trax) are the hedge.
 
-_Source: Wild Bearings webcast — see [README.md](README.md#sources)._
+_Source: Wild Bearings webcast — see [README.md](index.md#sources)._

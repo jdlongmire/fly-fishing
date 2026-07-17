@@ -1,3 +1,8 @@
+---
+title: Gear
+nav_order: 5
+---
+
 # Gear
 
 What I actually use, and honest notes on it. Not a wishlist — a record of what's earned a place in the pack.

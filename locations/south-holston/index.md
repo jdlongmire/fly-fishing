@@ -1,3 +1,10 @@
+---
+title: South Holston
+parent: Locations
+has_children: true
+nav_order: 1
+---
+
 # South Holston River (SoHo) — East Tennessee
 
 A TVA tailwater below South Holston Dam, widely rated one of the best trout fisheries in the eastern US. Cold year-round, extraordinary insect biomass, and a lot of big, well-fed, well-educated fish.
