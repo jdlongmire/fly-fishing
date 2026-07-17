@@ -5,6 +5,9 @@ description: A personal field journal — flies, tips, locations, gear, and seas
 url: https://jdlongmire.github.io
 baseurl: /fly-fishing
 
+# Clean URLs: /flies/reference/ instead of /flies/reference.html
+permalink: pretty
+
 # Native GitHub Pages build (no CI) — remote theme + default Pages plugins
 remote_theme: just-the-docs/just-the-docs
 plugins:
