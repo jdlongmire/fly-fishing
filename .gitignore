@@ -1,0 +1,11 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscode/
+.idea/
+
+# Private notes not meant for a public repo (keep sensitive spot details out)
+private/
+*.private.md
