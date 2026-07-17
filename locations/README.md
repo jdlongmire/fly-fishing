@@ -8,4 +8,4 @@ Waters I fish. Copy [`_template.md`](_template.md) to add one.
 
 | Water | Type | Species | Region | Best seasons |
 |---|---|---|---|---|
-| _(add your first water)_ | | | | |
+| [South Holston (SoHo)](south-holston/) | Tailwater | wild browns, rainbows, carp | East Tennessee | year-round (cold tailwater) |
