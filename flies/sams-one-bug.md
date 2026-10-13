@@ -40,9 +40,15 @@ Published recipe (Ahrex tying by Soren Flarup, linked above; not yet verified ag
 - Wing: Red fly foam, 2 mm
 - Eyes: Fluorescent orange and black UV resin
 
+## Session notes from Wade's demo
+
+Captured live at the session, Oct 13, 2026:
+
+- **Body foam: "Live Body" foam.** Wade named Live Body foam for the body. That is Wapsi's Live-Body foam, sold as foam cylinders (and blocks): a soft foam used for popper and surface bodies, which can be shaped and colored with markers or acrylic paint. Product reference: [Stone River Outfitters, Large Foam Cylinders](https://www.stoneriveroutfitters.com/fly-tying/lrg-foam-cylinders-black.html).
+
 Visible on the card photo: yellow foam body, orange rubber legs, big black eyes ringed in orange, orange foam wing, yellow marabou tail.
 
-Still to capture from Wade: his exact hook, foam, and leg materials as tied at the session, and any tools or tips he taught that night.
+Still to capture from Wade: his exact hook and leg materials as tied at the session, and any other tools or tips he taught that night.
 
 ## Track record
 
