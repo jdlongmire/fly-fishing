@@ -185,3 +185,13 @@
   waters: [general]
   page: /flies/woolly-bugger/
   notes: Year-round confidence searching pattern. Strip, swing, or dead-drift.
+
+- name: Sams One Bug
+  type: popper
+  imitates: attractor bug (warmwater surface)
+  sizes: "6"
+  bead: none
+  season: spring, summer
+  waters: [general, warmwater]
+  page: /flies/sams-one-bug/
+  notes: 'Foam surface popper developed in the late 1980s by Craig "Sam" Blevins for bass; built to be durable. Demoed by his son Wade Blevins at the PHW Huntsville tying session, Oct 13 2026.'
