@@ -52,6 +52,7 @@ Captured live at the session, Oct 13, 2026:
 - **Hook: #6 nymph hook.** Wade prefers a #6 nymph hook for this fly.
 - **Adhesive: Gorilla Glue gel.** Wade likes Gorilla Glue gel (the gel super glue) at the bench for this tie.
 - **Tool tip: spring-loaded pliers.** Use spring-loaded pliers to squeeze and hold the foam while the glue sets.
+- **Pro tip: X-Acto handle bodkin.** Wade uses an X-Acto knife handle fitted with a heavy sewing needle, in place of a traditional bodkin.
 - **Coloring: neon orange Sharpie.** Wade coats the indicator foam (the top foam piece) with a neon orange Sharpie.
 - **Eyes: pupil in industrial-strength Sharpie.** Wade used the industrial-strength Sharpie (black) for the eye pupil.
 - **Legs: medium round rubber legs.** Fluorescent orange, or colored to match the fly style. Wade prefers the front legs a little bit longer than the rear legs.
