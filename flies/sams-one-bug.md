@@ -42,7 +42,7 @@ Published recipe (Ahrex tying by Soren Flarup, linked above; not yet verified ag
 
 Visible on the card photo: yellow foam body, orange rubber legs, big black eyes ringed in orange, orange foam wing, yellow marabou tail.
 
-Still to capture from Wade: his exact leg materials as tied at the session, and any other tools or tips he taught that night.
+Session materials above are as captured live; anything else Wade taught that night can be added here.
 
 ## Session notes from Wade's demo
 
@@ -53,6 +53,7 @@ Captured live at the session, Oct 13, 2026:
 - **Adhesive: Gorilla Glue gel.** Wade likes Gorilla Glue gel (the gel super glue) at the bench for this tie.
 - **Tool tip: spring-loaded pliers.** Use spring-loaded pliers to squeeze and hold the foam while the glue sets.
 - **Coloring: neon orange Sharpie.** Wade coats the indicator foam (the top foam piece) with a neon orange Sharpie.
+- **Legs: medium round rubber legs.** Fluorescent orange, or colored to match the fly style.
 
 ## Track record
 
