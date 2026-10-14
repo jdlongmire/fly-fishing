@@ -50,6 +50,7 @@ Captured live at the session, Oct 13, 2026:
 
 - **Body foam: "Live Body" foam.** Wade named Live Body foam for the body. That is Wapsi's Live-Body foam, sold as foam cylinders (and blocks): a soft foam used for popper and surface bodies, which can be shaped and colored with markers or acrylic paint. Product reference: [Stone River Outfitters, Large Foam Cylinders](https://www.stoneriveroutfitters.com/fly-tying/lrg-foam-cylinders-black.html).
 - **Hook: #6 nymph hook.** Wade prefers a #6 nymph hook for this fly.
+- **Adhesive: Gorilla Glue gel.** Wade likes Gorilla Glue gel (the gel super glue) at the bench for this tie.
 
 ## Track record
 
