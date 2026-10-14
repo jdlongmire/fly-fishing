@@ -51,7 +51,7 @@ Captured live at the session, Oct 13, 2026:
 - **Body foam: "Live Body" foam.** Wade named Live Body foam for the body. That is Wapsi's Live-Body foam, sold as foam cylinders (and blocks): a soft foam used for popper and surface bodies, which can be shaped and colored with markers or acrylic paint. Product reference: [Stone River Outfitters, Large Foam Cylinders](https://www.stoneriveroutfitters.com/fly-tying/lrg-foam-cylinders-black.html).
 - **Hook: #6 nymph hook.** Wade prefers a #6 nymph hook for this fly.
 - **Adhesive: Gorilla Glue gel.** Wade likes Gorilla Glue gel (the gel super glue) at the bench for this tie.
-- **Tool tip: spring-loaded pliers.** Use spring-loaded pliers to squeeze and hold the foam while the glue sets.
+- **Tool tip: spring-loaded pliers.** Use spring-loaded pliers to squeeze and hold the foam while the glue sets. Pro tip: bead pliers work also.
 - **Pro tip: X-Acto handle bodkin.** Wade uses an X-Acto knife handle fitted with a heavy sewing needle, in place of a traditional bodkin.
 - **Coloring: neon orange Sharpie.** Wade coats the indicator foam (the top foam piece) with a neon orange Sharpie.
 - **Eyes: pupil in industrial-strength Sharpie.** Wade used the industrial-strength Sharpie (black) for the eye pupil.
