@@ -53,8 +53,9 @@ Captured live at the session, Oct 13, 2026:
 - **Adhesive: Gorilla Glue gel.** Wade likes Gorilla Glue gel (the gel super glue) at the bench for this tie.
 - **Tool tip: spring-loaded pliers.** Use spring-loaded pliers to squeeze and hold the foam while the glue sets.
 - **Coloring: neon orange Sharpie.** Wade coats the indicator foam (the top foam piece) with a neon orange Sharpie.
+- **Eyes: pupil in industrial-strength Sharpie.** Wade used the industrial-strength Sharpie (black) for the eye pupil.
 - **Legs: medium round rubber legs.** Fluorescent orange, or colored to match the fly style. Wade prefers the front legs a little bit longer than the rear legs.
-- **Side note on markers:** Sharpie makes an industrial-strength line (Sharpie Industrial): ink formulated for industrial and lab use, resistant to water, fading, and smearing, and rated to withstand heat up to 500F. Sold in black. Reference: [Office Depot, Sharpie Industrial](https://www.officedepot.com/a/products/831648848/Sharpie-Industrial-Permanent-Markers/).
+- **Side note on markers:** The industrial Sharpie above is Sharpie Industrial: ink formulated for industrial and lab use, resistant to water, fading, and smearing, and rated to withstand heat up to 500F. Sold in black, which is why it suits the pupil. Reference: [Office Depot, Sharpie Industrial](https://www.officedepot.com/a/products/831648848/Sharpie-Industrial-Permanent-Markers/).
 
 ## Track record
 
