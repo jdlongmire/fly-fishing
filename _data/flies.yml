@@ -204,3 +204,13 @@
   waters: [general]
   page: /flies/rusty-trombone/
   notes: 'Olive and copper colorway of the Articulated Goldie, a two-hook articulated streamer from Northern Colorado and Wyoming. Flash is copper Hedron Flashabou. Recipe from DiscountFlies.'
+
+- name: Green Machine
+  type: nymph
+  imitates: larva
+  sizes: "18"
+  bead: copper
+  season: all
+  waters: [general]
+  page: /flies/green-machine/
+  notes: 'Beadhead larva on a size 18 scud hook: 5/64 in copper bead, black or grey thread, Crystal Flash underbody under clear small D-Rib (grey or olive D-Rib also works). Recipe as given by JD, Oct 27 2026.'
