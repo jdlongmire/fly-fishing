@@ -17,7 +17,7 @@ Individual pattern notes below. Copy [`_template.md`](_template.md) to start a n
 | [Woolly Bugger](woolly-bugger.md) | Streamer | leech / baitfish / crayfish | seed example — year-round confidence pattern |
 | [Sams One Bug](sams-one-bug.md) | Popper | attractor bug (warmwater surface) | foam topwater for bass and panfish; created by Sam Blevins, demoed by his son Wade Blevins at PHW Huntsville, Oct 13 2026 |
 | [Rusty Trombone](rusty-trombone.md) | Streamer | baitfish (articulated) | olive/copper colorway of the Articulated Goldie; two-hook articulated streamer, copper Flashabou |
-| [Green Machine](green-machine.md) | Nymph | larva | sz 18 beadhead on a scud hook; clear small D-Rib over a flash underbody, copper bead |
+| [Green Machine](green-machine.md) | Nymph | larva | sz 18, 20, 22 beadheads on barbed scud hooks; clear small D-Rib over a flash underbody, copper bead |
 
 ## Quick reference — pattern families
 
