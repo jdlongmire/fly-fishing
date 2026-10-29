@@ -7,12 +7,12 @@ parent: Flies
 
 **Type:** Nymph (beadhead, scud hook)
 **Imitates:** Small larva (tied on a scud hook; the recipe does not name a specific insect)
-**Sizes I carry:** #18
+**Sizes I carry:** #18, #20, #22
 **Colors:** Clear D-Rib over a flash underbody; grey or olive D-Rib variants
 
 ## When it produces
 
-Not yet recorded. A size 18 beadhead larva pattern, built for the small end of the nymph box.
+Not yet recorded. A small beadhead larva pattern in sizes 18 to 22, built for the small end of the nymph box.
 
 ## How to fish it
 
@@ -22,8 +22,8 @@ Dead drift it like other small beadhead nymphs, under an indicator or as a dropp
 
 Recipe as given by JD, Oct 27, 2026:
 
-- Hook: Scud hook, size 18
-- Bead: Copper, 5/64 in (2.0 mm)
+- Hook: Scud hook, barbed, sizes 18, 20, and 22
+- Bead: Copper. 5/64 in (2.0 mm) on the #18; 1/16 in (1.6 mm) on the #20 and #22 (standard bead-chart sizes)
 - Thread: Black or grey; both work well
 - Underbody: Crystal Flash (Krystal Flash), or a small flash on a spool (spooled flat flash / tinsel)
 - Body: D-Rib, small, clear; grey or olive also works well. Wrap the D-Rib over the flash underbody so the flash shows through the translucent rib.
