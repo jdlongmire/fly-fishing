@@ -208,9 +208,9 @@
 - name: Green Machine
   type: nymph
   imitates: larva
-  sizes: "18"
+  sizes: "18, 20, 22"
   bead: copper
   season: all
   waters: [general]
   page: /flies/green-machine/
-  notes: 'Beadhead larva on a size 18 scud hook: 5/64 in copper bead, black or grey thread, Crystal Flash underbody under clear small D-Rib (grey or olive D-Rib also works). Recipe as given by JD, Oct 27 2026.'
+  notes: 'Beadhead larva on barbed scud hooks, sizes 18, 20, 22: copper bead (5/64 in on the 18; 1/16 in on the 20 and 22), black or grey thread, Crystal Flash underbody under clear small D-Rib (grey or olive D-Rib also works). Recipe as given by JD, Oct 27 2026; sizes 20 and 22 added Oct 29 2026.'
