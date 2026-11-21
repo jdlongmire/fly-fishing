@@ -29,12 +29,19 @@ Recipe as given by JD, Oct 27, 2026:
 - Body: D-Rib, small, clear; grey or olive also works well. Wrap the D-Rib over the flash underbody so the flash shows through the translucent rib.
 
 Reading note: JD's shorthand "drib" is recorded here as D-Rib, the vinyl half-round ribbing material, and "small flash on spool" as the spooled alternative to hanked Crystal Flash for the underbody.
+Bench notes, Nov 20 2026 (first tying session): the underbody flash used was the green Krystal Flash hank on JD's bench, a few strands only; at sizes 20 and 22 a heavy underbody crowds the hook. For the clear D-Rib build, grey thread is the pick: with clear rib the thread shows through at the tie-in and at the head, and grey stays quiet under the green flash. Sequence that worked: bead on, thread to the bend, tie in the D-Rib and leave it hanging, tie in the flash and wrap it forward as the underbody, then wrap the D-Rib over it in touching turns to the bead.
+
+## Variants
+
+- **UV resin coat (Nov 20, 2026):** a thin coat of UV resin over the finished body. It locks the D-Rib down, adds a wet pupa sheen, and the flash still reads through it. Keep the coat thin so the segmentation is not buried, and keep the hook eye clear of resin.
+- **Tan-body experiments:** the same bench session produced the [Jack Daniels Micro-Flash](jack-daniels-micro-flash.md), a separate pattern that borrows the Jack Daniels body formula.
 
 ## Track record
 
 | Date | Water | Result | Notes |
 |---|---|---|---|
 | 2026-10-27 | (recipe capture) | Added to reference | Recipe as given by JD; not yet tied or fished |
+| 2026-11-20 | (bench) | First tied | First batch: clear D-Rib over green Krystal Flash, copper beads. UV resin coat variant also tied. Not yet fished |
 
 ## Photos
 
