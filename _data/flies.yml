@@ -213,4 +213,13 @@
   season: all
   waters: [general]
   page: /flies/green-machine/
-  notes: 'Beadhead larva on barbed scud hooks, sizes 18, 20, 22: copper bead (5/64 in on the 18; 1/16 in on the 20 and 22), black or grey thread, Crystal Flash underbody under clear small D-Rib (grey or olive D-Rib also works). Recipe as given by JD, Oct 27 2026; sizes 20 and 22 added Oct 29 2026.'
+  notes: 'Beadhead larva on barbed scud hooks, sizes 18, 20, 22: copper bead (5/64 in on the 18; 1/16 in on the 20 and 22), black or grey thread, Crystal Flash underbody under clear small D-Rib (grey or olive D-Rib also works). Recipe as given by JD, Oct 27 2026; sizes 20 and 22 added Oct 29 2026. First tied Nov 20 2026, including a UV resin coat variant.'
+- name: Jack Daniels Micro-Flash
+  type: nymph
+  imitates: mayfly larva
+  sizes: "18, 20, 22"
+  bead: copper
+  season: all
+  waters: [general]
+  page: /flies/jack-daniels-micro-flash/
+  notes: 'JD adaptation (Nov 20 2026) of the Jack Daniels nymph by Cory Cuje (Old Dominion Trout Bum): tan thread body, black Sharpie segments, wrapped flash, UV resin coat, on barbed scud hooks with brass copper beads. Hybrid variant adds olive D-Rib and a custom dub loop collar.'
