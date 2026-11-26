@@ -35,6 +35,7 @@ Bench notes, Nov 20 2026 (first tying session): the underbody flash used was the
 
 - **UV resin coat (Nov 20, 2026):** a thin coat of UV resin over the finished body. It locks the D-Rib down, adds a wet pupa sheen, and the flash still reads through it. Keep the coat thin so the segmentation is not buried, and keep the hook eye clear of resin.
 - **Tan-body experiments:** the same bench session produced the [Jack Daniels Micro-Flash](jack-daniels-micro-flash.md), a separate pattern that borrows the Jack Daniels body formula.
+- **Stonefly build:** the Nov 26, 2026 bench session took the chassis the other direction, adding barred flash tails and antennae to make the [Green Machine Stonefly](green-machine-stonefly.md), a separate pattern page.
 
 ## Track record
 
