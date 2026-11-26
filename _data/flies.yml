@@ -223,3 +223,12 @@
   waters: [general]
   page: /flies/jack-daniels-micro-flash/
   notes: 'JD adaptation (Nov 20 2026) of the Jack Daniels nymph by Cory Cuje (Old Dominion Trout Bum): tan thread body, black Sharpie segments, wrapped flash, UV resin coat, on barbed scud hooks with brass copper beads. Hybrid variant adds olive D-Rib and a custom dub loop collar.'
+- name: Green Machine Stonefly
+  type: nymph
+  imitates: stonefly nymph
+  sizes: "18, 20, 22"
+  bead: black
+  season: all
+  waters: [general]
+  page: /flies/green-machine-stonefly/
+  notes: 'JD pattern, first tied Nov 26 2026: Green Machine chassis (barbed scud hooks) with olive D-Rib over a flash underbody, custom dub mix thorax, black bead, and two barred black and white Krystal Flash tails plus two antennae, trimmed to about body length. The two-and-two appendage count is the stonefly read.'
