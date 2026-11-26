@@ -18,6 +18,7 @@ Individual pattern notes below. Copy [`_template.md`](_template.md) to start a n
 | [Sams One Bug](sams-one-bug.md) | Popper | attractor bug (warmwater surface) | foam topwater for bass and panfish; created by Sam Blevins, demoed by his son Wade Blevins at PHW Huntsville, Oct 13 2026 |
 | [Rusty Trombone](rusty-trombone.md) | Streamer | baitfish (articulated) | olive/copper colorway of the Articulated Goldie; two-hook articulated streamer, copper Flashabou |
 | [Green Machine](green-machine.md) | Nymph | larva | sz 18, 20, 22 beadheads on barbed scud hooks; clear small D-Rib over a flash underbody, copper bead |
+| [Green Machine Stonefly](green-machine-stonefly.md) | Nymph | stonefly nymph | Green Machine chassis with two barred flash tails and two antennae trimmed to about body length; olive D-Rib body, custom dub thorax, black bead |
 | [Jack Daniels Micro-Flash](jack-daniels-micro-flash.md) | Nymph | mayfly larva | JD's micro adaptation of Cory Cuje's Jack Daniels nymph: tan thread body, black Sharpie segments, wrapped flash, UV coat, on scud hooks |
 
 ## Quick reference — pattern families
